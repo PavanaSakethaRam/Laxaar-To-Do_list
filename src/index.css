@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f2f5;
+}
+
+.ant-layout {
+  background-color: #f0f2f5;
+}
+
+.ant-layout-content {
+  min-height: 100vh;
+}
+
+.ant-list-item {
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.ant-list-item-meta-title {
+  font-size: 18px;
+}
+
+.ant-list-item-meta-description {
+  color: #666;
+}
+
+.ant-modal {
+  max-width: 600px;
+}
+
+.ant-spin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+}
